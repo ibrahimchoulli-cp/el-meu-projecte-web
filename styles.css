@@ -20,7 +20,7 @@ p {
     font-size: 1.2em;
 }
 
-/* Lista */
+
 ul {
     list-style: none;
     padding: 0;
@@ -34,7 +34,7 @@ li {
     border-radius: 8px;
 }
 
-/* Botón */
+
 button {
     background: white;
     color: #667eea;
@@ -46,14 +46,14 @@ button {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-/* Mensaje */
+
 #missatge {
     margin-top: 20px;
     font-size: 1.3em;
     font-weight: bold;
 }
 
-/* Pequeño efecto en títulos */
+
 h1:hover {
     color: #ffd700;
     transition: 0.3s;
